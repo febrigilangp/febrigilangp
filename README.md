@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, NextJs**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **febri.gilangpratama99@gmail.com**
 
