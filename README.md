@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Laravel, NextJs**
 
-- 💬 Ask me about **PHP**
-
 - 📫 How to reach me **febri.gilangpratama99@gmail.com**
 
 - ⚡ Fun fact **I think I funny and Big**
